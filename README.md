@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am **F_Unction**
+
+A **Student**, **OIer**.
+
+💔 很喜欢《人民教育出版社 普通高中教科书 数学必修第一册》中的一句话：“**在一个变化过程中，数值发生变化的量称为变量；在一个变化过程中，如果有两个变量x与y，并且对于x的每一个确定的值，y都有唯一确定的值与其对应，那么就称y是x的函数.**”
