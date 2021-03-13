@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 #### Who are you?
-I am a **student**, a **OIer**.
+I am a **student**, a(n) **OIer**.
+A **free unprofessional software testing engineer** for **educational software company like Linspirer, CKL**(and TenSafe).(doge)
 
 #### Where are you?
 School.
